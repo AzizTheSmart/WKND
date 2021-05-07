@@ -4,6 +4,8 @@
 
 This is the code for the WKND Reference site: [https://www.wknd.site/](https://www.wknd.site/)
 
+Mohammed Aziz
+
 There is also a corresponding tutorial where you can learn how to implement a website using the latest standards and technologies in Adobe Experience Manager (AEM):
 
 1. [WKND Tutorial Overview](https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
